@@ -1,9 +1,5 @@
 {
   "name": "schaaldesign/wp-timber-theme",
   "version": "0.1",
-  "type": "wordpress-theme",
-  "dist": {
-      "url": "https://github.com/sebahub/wp-timber-starter-theme",
-      "type": "git"
-  }
+  "type": "wordpress-theme"
 }
