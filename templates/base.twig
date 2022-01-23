@@ -1,0 +1,13 @@
+{% include "head.twig" %}
+<body>
+  {% block content %}{% endblock %}
+
+  {% block footer %}
+    <footer id="footer">
+  
+    </footer>
+    {{ function('wp_footer') }}
+
+  {% endblock %}
+
+</body>
